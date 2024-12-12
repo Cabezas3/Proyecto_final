@@ -1,0 +1,14 @@
+Información:
+
+usuarios socios:
+
+usuario: raulillo
+contraseña:raulillo
+
+usuario:david
+contraseña:david
+
+usuario admin:
+usuario:admin
+contraseña:admin
+
